@@ -20,7 +20,7 @@ To get started with the AI-Powered Mock Interview Platform, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/nikkx01/Ai-mock-Interview.git
+   git clone https://github.com/nikkx01/Ai-mock-interview.git
 
 2. Navigate to the project directory:
    ```bash
